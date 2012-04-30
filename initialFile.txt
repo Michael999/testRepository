@@ -1,3 +1,3 @@
-dies ist ein erster Test
+dies ist ein 1. Test
 dies ist ein dritter Test
 dies ist ein vierter Test
